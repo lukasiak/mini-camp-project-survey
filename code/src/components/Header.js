@@ -16,7 +16,7 @@ export const Header = () => {
 
     return (
         <Typography variant="h2" className={classes.header}>
-            Pokemon Survey
+            Pokémon Survey
         </Typography>
     );
 };
