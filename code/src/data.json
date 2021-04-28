@@ -1,0 +1,70 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "text": "First Pokémon Game",
+            "options": [
+                "Red/Blue",
+                "Yellow",
+                "Gold/Silver",
+                "Crystal",
+                "Ruby/Sapphire",
+                "Emerald",
+                "Fire Red/Leaf Green",
+                "Diamond/Pearl",
+                "Platinum",
+                "Heart Gold/Soul Silver",
+                "Black/White",
+                "Black 2/White 2",
+                "X/Y",
+                "Omega Ruby/Alpha Sapphire",
+                "Sun/Moon",
+                "Ultra Sun/Ultra Moon",
+                "Pokémon Go",
+                "Never played =("
+            ]
+        },
+        {
+            "id": "2",
+            "text": "Favorite Pokémon type",
+            "options": [
+                "Normal",
+                "Fighting",
+                "Flying",
+                "Poison",
+                "Ground",
+                "Rock",
+                "Bug",
+                "Ghost",
+                "Steel",
+                "Fire",
+                "Water",
+                "Grass",
+                "Electric",
+                "Psychic",
+                "Ice",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ]
+        },
+        {
+            "id": "3",
+            "text": "Favorite Pokémon region",
+            "options": [
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "Sinnoh",
+                "Unova", 
+                "Kalos",
+                "Alola",
+                "Galar"
+            ]
+        },
+        {
+            "id": "4",
+            "text": "Favorite Pokémon"
+        }
+    ]
+}
